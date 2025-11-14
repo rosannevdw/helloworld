@@ -11,7 +11,6 @@ export const Layout = (props) =>
       </head>
       <body>
         <h1>${props.title}</h1>
-        ${props.children}
         <h2>yoohoo</h2>
         <p>text text</p>
         <a href="https://stadtharmonie.ch/" target="blank">LINK</a>
